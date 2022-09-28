@@ -22,7 +22,6 @@ Guidelines:
 '''
 
 class CC_Transaction:
-
     def __init__(self):
         self.tran_time={}
 
